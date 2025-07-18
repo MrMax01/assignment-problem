@@ -12,7 +12,7 @@ Use these names to stop and restart both containers.----------->DONE
 4) Clean up (remove) all stopped (and running) containers, 
 clean up all created images.-------->DONE!
 
-5) Re-build the images - this time with names and tags assigned to them.
+5) Re-build the images - this time with names and tags assigned to them.---> DONE!
 
 6) Run new containers based on the re-built images, ensuring that the containers
-are removed automatically when stopped.
+are removed automatically when stopped. -----> DONE!
